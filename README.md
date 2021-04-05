@@ -7,7 +7,7 @@ This program runs in Python 3 and uses
 * Tensorflow2
 In order to train a model, you need to create a dataset. Edit `create_training_set.py` in order to do so.
 A model is already included in the repo, but if you make alterations to the dataset or model itself you can run `train_model.py` to retrain.
-Finally, running `image_processing` to test the model and the program (hopefully) prints a prediction to console.
+Finally, running `image_processing.py` to test the model and the program (hopefully) prints a prediction to console.
 ### Notes
 This is my first attempt at even using tensorflow, much less fully understanding how to develop a CNN.
 ### Known limitations
